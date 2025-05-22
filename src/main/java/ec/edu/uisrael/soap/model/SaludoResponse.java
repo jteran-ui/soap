@@ -11,7 +11,7 @@ public class SaludoResponse {
     @XmlElement(namespace = "http://ejemplo.com/saludos")
     private String mensaje;
 
-
+	//Se agrega anotaciones
     @XmlElement(namespace = "http://ejemplo.com/saludos")
     private String fechaHora;
 
